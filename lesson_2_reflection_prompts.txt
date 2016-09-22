@@ -25,5 +25,8 @@ by arranging the commits with it parents
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+it will result in compining many pieces of a project together in one bigger project
+it will show us the perents and branches of the commits
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
