@@ -1,1 +1,6 @@
 when you want to create a remote repositary rather than keeping all your work local?
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository? 
+
+because sometime you only need specific branch or may be there are someone also working on the same brach and that may intervene with your work
